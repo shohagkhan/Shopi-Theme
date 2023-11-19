@@ -1,0 +1,18 @@
+# Ignore Shopify theme development files
+node_modules/
+config.yml
+.env
+
+# Ignore local development files
+*.DS_Store
+*.log
+*.sublime-workspace
+
+# Ignore Visual Studio Code files
+.vscode/
+
+
+
+
+
+
